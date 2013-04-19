@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LabaratoriskaVtora</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="download_title">Downloading</string>
+    <string name="download_description">Downloading items</string>
+    
+    <string name="all_items">http://api.shopwiki.com/api/search?key=b2cce8c214472b0c2bc17acf06d4da86&q=television&n=5&min_price=5000</string>
+	<!-- za all_items probuvav namesto & so &amp; ama pak javuvase ista greska -->
+	
+</resources>
+
+
+    
